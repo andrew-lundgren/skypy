@@ -53,7 +53,7 @@ skypy based on its use in the README file for the
     :target: http://www.astropy.org
     :alt: Powered by Astropy Badge
 
-.. |CircleCI Status| image:: https://https://circleci.com/gh/skypyproject/skypy.svg?style=svg
+.. |CircleCI Status| image:: https://circleci.com/gh/skypyproject/skypy.svg?style=svg
     :target: https://circleci.com/gh/skypyproject/skypy
     :alt: Astropy's CircleCI Status
 
